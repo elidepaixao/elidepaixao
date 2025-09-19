@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou a Elide!
+# Olá, eu sou a Elide!
 
 Após 16 anos de atuação como bancária, iniciei minha transição de carreira com o objetivo de trilhar um novo caminho profissional. Tomei a decisão de deixar a área financeira por entender que havia cumprido minha missão ali e por sentir o desejo profundo de aprender algo novo — algo que não só me desafiasse, mas também me permitisse contribuir com soluções que tornem a vida das pessoas mais simples e funcional.
 
