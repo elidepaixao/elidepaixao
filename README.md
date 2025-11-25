@@ -12,14 +12,12 @@ Estou comprometida com a melhoria contínua e animada com as possibilidades que 
 
 ### Tecnologias em aprendizado:
 
-* HTML5 & CSS3
 * JavaScript (ES6+)
 * PHP
 * C
 * PYTHON
 * Git & GitHub
 * Figma
-* Metodologias ágeis
 
 
 
