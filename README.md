@@ -10,19 +10,17 @@ Estou comprometida com a melhoria contínua e animada com as possibilidades que 
 
 ---
 
-### 🚀 Tecnologias em aprendizado:
+### Tecnologias em aprendizado:
 
 * HTML5 & CSS3
 * JavaScript (ES6+)
+* PHP
+* C
+* PYTHON
 * Git & GitHub
 * Figma
 * Metodologias ágeis
-* Futuramente: React.js e desenvolvimento fullstack
 
----
 
-### Vamos nos conectar!
-
-Se quiser acompanhar minha jornada ou trocar ideias sobre tecnologia e transição de carreira, fique à vontade para me chamar ou me seguir por aqui!
 
 
