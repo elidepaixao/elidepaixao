@@ -5,7 +5,7 @@
 
 ## Sobre Mim
 
-Sou estudante de Engenharia de Software com foco em Engenharia de Dados[cite: 1]. Possuo uma trajetória de mais de 15 anos no setor financeiro, o que me proporcionou uma formação fortemente orientada para os negócios e capacidade analítica[cite: 1]. Atualmente, aplico minha resiliência e curiosidade no desenvolvimento da minha carreira na área de tecnologia, focando na criação de soluções de dados, processos de ETL/ELT e automações
+Sou estudante de Engenharia de Software com foco em Engenharia de Dados. Possuo uma trajetória de mais de 15 anos no setor bancário, o que me proporcionou uma formação fortemente orientada para os negócios e capacidade analítica. Atualmente, aplico minha resiliência e curiosidade no desenvolvimento da minha carreira na área de tecnologia, focando na criação de soluções de dados, processos de ETL/ELT e automações.
 
 ---
 
